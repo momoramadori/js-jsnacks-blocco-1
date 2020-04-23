@@ -1,4 +1,4 @@
-//L'utente dice un numero N e stampo il cubo di tot numeri fino ad n
+//L'utente dice un numero N e stampo il cubo di tot numeri fino ad N
 
 var numeriUtente = parseInt(prompt("Calcolo dei cubi fino al numero:"))
 if (isNaN(numeriUtente) == true) {
